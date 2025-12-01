@@ -1,0 +1,12 @@
+# Database files
+БД/
+*.mdf
+*.ndf
+*.ldf
+
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
