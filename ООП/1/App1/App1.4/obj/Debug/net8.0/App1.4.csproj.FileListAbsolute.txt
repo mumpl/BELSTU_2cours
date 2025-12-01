@@ -1,0 +1,14 @@
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\obj\Debug\net8.0\App1.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\obj\Debug\net8.0\App1.4.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\obj\Debug\net8.0\App1.4.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\obj\Debug\net8.0\App1.4.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\bin\Debug\net8.0\App1.4.exe
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\bin\Debug\net8.0\App1.4.deps.json
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\bin\Debug\net8.0\App1.4.runtimeconfig.json
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\bin\Debug\net8.0\App1.4.dll
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\bin\Debug\net8.0\App1.4.pdb
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\obj\Debug\net8.0\App1.4.dll
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\obj\Debug\net8.0\refint\App1.4.dll
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\obj\Debug\net8.0\App1.4.pdb
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\obj\Debug\net8.0\App1.4.genruntimeconfig.cache
+D:\УЧЁБА\2 курс\Лабы\ООП\App1\App1.4\obj\Debug\net8.0\ref\App1.4.dll

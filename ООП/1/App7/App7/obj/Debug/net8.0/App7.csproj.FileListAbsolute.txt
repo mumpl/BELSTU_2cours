@@ -1,0 +1,14 @@
+D:\УЧЁБА\2 курс\ООП\App7\App7\bin\Debug\net8.0\App7.exe
+D:\УЧЁБА\2 курс\ООП\App7\App7\bin\Debug\net8.0\App7.deps.json
+D:\УЧЁБА\2 курс\ООП\App7\App7\bin\Debug\net8.0\App7.runtimeconfig.json
+D:\УЧЁБА\2 курс\ООП\App7\App7\bin\Debug\net8.0\App7.dll
+D:\УЧЁБА\2 курс\ООП\App7\App7\bin\Debug\net8.0\App7.pdb
+D:\УЧЁБА\2 курс\ООП\App7\App7\obj\Debug\net8.0\App7.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ООП\App7\App7\obj\Debug\net8.0\App7.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ООП\App7\App7\obj\Debug\net8.0\App7.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ООП\App7\App7\obj\Debug\net8.0\App7.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ООП\App7\App7\obj\Debug\net8.0\App7.dll
+D:\УЧЁБА\2 курс\ООП\App7\App7\obj\Debug\net8.0\refint\App7.dll
+D:\УЧЁБА\2 курс\ООП\App7\App7\obj\Debug\net8.0\App7.pdb
+D:\УЧЁБА\2 курс\ООП\App7\App7\obj\Debug\net8.0\App7.genruntimeconfig.cache
+D:\УЧЁБА\2 курс\ООП\App7\App7\obj\Debug\net8.0\ref\App7.dll

@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab14\\lab14\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|solutionrelative:lab14\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|solutionrelative:lab14\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|solutionrelative:lab14\\Task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|solutionrelative:lab14\\Task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|solutionrelative:lab14\\Task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EDFC60-E90B-4155-8184-C8C93573F710}|lab14\\lab14.csproj|solutionrelative:lab14\\Task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task1.cs",
+              "RelativeDocumentMoniker": "lab14\\Task1.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task1.cs",
+              "RelativeToolTip": "lab14\\Task1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:14:38.111Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task4.cs",
+              "RelativeDocumentMoniker": "lab14\\Task4.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task4.cs",
+              "RelativeToolTip": "lab14\\Task4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:14:44.325Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task5.cs",
+              "RelativeDocumentMoniker": "lab14\\Task5.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task5.cs",
+              "RelativeToolTip": "lab14\\Task5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:14:48.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task3.cs",
+              "RelativeDocumentMoniker": "lab14\\Task3.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task3.cs",
+              "RelativeToolTip": "lab14\\Task3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:14:43.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task2.cs",
+              "RelativeDocumentMoniker": "lab14\\Task2.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Task2.cs",
+              "RelativeToolTip": "lab14\\Task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:14:38.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Program.cs",
+              "RelativeDocumentMoniker": "lab14\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab14\\lab14\\Program.cs",
+              "RelativeToolTip": "lab14\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:05:37.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

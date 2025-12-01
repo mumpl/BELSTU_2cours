@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4005C50-A059-47E4-9279-E14820DC1B65}|3\\3.vcxproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4005C50-A059-47E4-9279-E14820DC1B65}|3\\3.vcxproj|solutionrelative:3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4005C50-A059-47E4-9279-E14820DC1B65}|3\\3.vcxproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\3\\Combi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4005C50-A059-47E4-9279-E14820DC1B65}|3\\3.vcxproj|solutionrelative:3\\Combi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4005C50-A059-47E4-9279-E14820DC1B65}|3\\3.vcxproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\3\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4005C50-A059-47E4-9279-E14820DC1B65}|3\\3.vcxproj|solutionrelative:3\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\3\\3.cpp",
+              "RelativeDocumentMoniker": "3\\3.cpp",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\3\\3.cpp",
+              "RelativeToolTip": "3\\3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T20:06:02.1Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Combi.h",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\3\\Combi.h",
+              "RelativeDocumentMoniker": "3\\Combi.h",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\3\\Combi.h",
+              "RelativeToolTip": "3\\Combi.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T20:11:02.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Combi.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\3\\Combi.cpp",
+              "RelativeDocumentMoniker": "3\\Combi.cpp",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041C\u0410\u0422_\u041F\u0420\u041E\u0413\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\3\\3\\Combi.cpp",
+              "RelativeToolTip": "3\\Combi.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T20:10:34.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

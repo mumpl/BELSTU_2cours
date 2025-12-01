@@ -1,0 +1,11 @@
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\bin\Debug\net8.0\DAL21_JSON.deps.json
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\bin\Debug\net8.0\DAL21_JSON.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\bin\Debug\net8.0\DAL21_JSON.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\obj\Debug\net8.0\DAL21_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\obj\Debug\net8.0\DAL21_JSON.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\obj\Debug\net8.0\DAL21_JSON.AssemblyInfo.cs
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\obj\Debug\net8.0\DAL21_JSON.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\obj\Debug\net8.0\DAL21_JSON.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\obj\Debug\net8.0\refint\DAL21_JSON.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\obj\Debug\net8.0\DAL21_JSON.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DAL21_JSON\obj\Debug\net8.0\ref\DAL21_JSON.dll

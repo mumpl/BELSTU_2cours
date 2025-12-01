@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FullName>Василевский Матвей Васильевич</FullName>
+    <BirthDate>2022-03-21T00:00:00</BirthDate>
+    <Specialization>Программная инженерия</Specialization>
+    <Course>3</Course>
+    <Group>9</Group>
+    <AverageMark>8</AverageMark>
+    <Gender>M</Gender>
+    <WorkPlace>
+      <Company>Евроопт</Company>
+      <Position>Менеджер</Position>
+      <Experience>5</Experience>
+    </WorkPlace>
+  </Student>
+  <Student>
+    <FullName>Калинин Николай Викторович</FullName>
+    <BirthDate>2024-11-13T00:00:00</BirthDate>
+    <Specialization>Программная инженерия</Specialization>
+    <Course>3</Course>
+    <Group>6</Group>
+    <AverageMark>8</AverageMark>
+    <Gender>M</Gender>
+  </Student>
+  <Student>
+    <FullName>Калинин Николай Викторович</FullName>
+    <BirthDate>2024-11-13T00:00:00</BirthDate>
+    <Specialization>Программная инженерия</Specialization>
+    <Course>3</Course>
+    <Group>6</Group>
+    <AverageMark>8</AverageMark>
+    <Gender>M</Gender>
+  </Student>
+  <Student>
+    <FullName>Авчинник Елизавета Сергеевна</FullName>
+    <BirthDate>2022-09-12T00:00:00</BirthDate>
+    <Specialization>Информационные системы и технологии</Specialization>
+    <Course>2</Course>
+    <Group>1</Group>
+    <AverageMark>6</AverageMark>
+    <Gender>Ж</Gender>
+  </Student>
+  <Student>
+    <FullName>Дужик Ульяна Сергеевна</FullName>
+    <BirthDate>2023-08-15T00:00:00</BirthDate>
+    <Specialization>Информационные системы и технологии</Specialization>
+    <Course>2</Course>
+    <Group>1</Group>
+    <AverageMark>3</AverageMark>
+    <Gender>Ж</Gender>
+  </Student>
+</ArrayOfStudent>

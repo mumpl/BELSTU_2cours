@@ -1,0 +1,12 @@
+<Cars>
+  <Car>
+    <Name>Chery</Name>
+    <Model>Toggo 3</Model>
+    <Year>2012</Year>
+  </Car>
+  <Car>
+    <Name>Dacha</Name>
+    <Model>Sandero</Model>
+    <Year>2012</Year>
+  </Car>
+</Cars>

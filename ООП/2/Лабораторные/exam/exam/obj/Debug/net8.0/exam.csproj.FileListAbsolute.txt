@@ -1,0 +1,14 @@
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\bin\Debug\net8.0\exam.exe
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\bin\Debug\net8.0\exam.deps.json
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\bin\Debug\net8.0\exam.runtimeconfig.json
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\bin\Debug\net8.0\exam.dll
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\bin\Debug\net8.0\exam.pdb
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\obj\Debug\net8.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\obj\Debug\net8.0\exam.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\obj\Debug\net8.0\exam.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\obj\Debug\net8.0\exam.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\obj\Debug\net8.0\exam.dll
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\obj\Debug\net8.0\refint\exam.dll
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\obj\Debug\net8.0\exam.pdb
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\obj\Debug\net8.0\exam.genruntimeconfig.cache
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\exam\exam\obj\Debug\net8.0\ref\exam.dll

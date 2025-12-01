@@ -1,0 +1,16 @@
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\bin\Debug\net8.0-windows\App1.exe
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\bin\Debug\net8.0-windows\App1.deps.json
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\bin\Debug\net8.0-windows\App1.runtimeconfig.json
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\bin\Debug\net8.0-windows\App1.dll
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\bin\Debug\net8.0-windows\App1.pdb
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\App1.Form1.resources
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\App1.csproj.GenerateResource.cache
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\App1.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\App1.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\App1.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\App1.dll
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\refint\App1.dll
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\App1.pdb
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\App1.genruntimeconfig.cache
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\App1\App1\obj\Debug\net8.0-windows\ref\App1.dll

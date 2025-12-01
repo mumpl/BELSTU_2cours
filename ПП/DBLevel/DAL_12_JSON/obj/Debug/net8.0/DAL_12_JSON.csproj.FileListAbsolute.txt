@@ -1,0 +1,11 @@
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\bin\Debug\net8.0\DAL_12_JSON.deps.json
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\bin\Debug\net8.0\DAL_12_JSON.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\bin\Debug\net8.0\DAL_12_JSON.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\obj\Debug\net8.0\refint\DAL_12_JSON.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DAL_12_JSON\obj\Debug\net8.0\ref\DAL_12_JSON.dll

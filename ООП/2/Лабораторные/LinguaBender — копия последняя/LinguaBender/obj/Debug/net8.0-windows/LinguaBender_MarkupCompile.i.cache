@@ -1,0 +1,20 @@
+﻿LinguaBender
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\LinguaBender — копия последняя\LinguaBender\obj\Debug\net8.0-windows\
+LinguaBender
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\УЧЁБА\2 курс\ООП\2\Лабораторные\LinguaBender — копия последняя\LinguaBender\App.xaml
+17-1320151496
+
+38-346867773
+236-1363767444
+Controls\InfoCard.xaml;Controls\TextInfo.xaml;Controls\UserCard.xaml;LoginWindow.xaml;MainWindow.xaml;ProfileWindow.xaml;RegisterWindow.xaml;Resources\DictionaryEn.xaml;Resources\DictionaryRu.xaml;Resources\LightTheme.xaml;Resources\RoseTheme.xaml;Views\CoursesAddWindow.xaml;Views\CoursesEdit.xaml;Views\CoursesEditWindow.xaml;Views\CoursesView.xaml;Views\StudentsEdit.xaml;Views\StudentsView.xaml;
+
+False
+

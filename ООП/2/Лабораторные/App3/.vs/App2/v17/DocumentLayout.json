@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\app3\\app2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|solutionrelative:app2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\app3\\app2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|solutionrelative:app2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\app2\\sortform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|solutionrelative:app2\\sortform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\app3\\app2\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|solutionrelative:app2\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\app3\\app2\\sortform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|solutionrelative:app2\\sortform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\app3\\app2\\formaboutpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|solutionrelative:app2\\formaboutpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\app2\\formaboutpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|solutionrelative:app2\\formaboutpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\app2\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|solutionrelative:app2\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\app2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1EA94C6-F65F-4222-86F1-5429E0AD7651}|App2\\App2.csproj|solutionrelative:app2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Search.cs",
+              "RelativeDocumentMoniker": "App2\\Search.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Search.cs",
+              "RelativeToolTip": "App2\\Search.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:48:27.059Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Form1.cs",
+              "RelativeDocumentMoniker": "App2\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:47:58.565Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Form1.cs",
+              "RelativeDocumentMoniker": "App2\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Form1.cs",
+              "RelativeToolTip": "App2\\Form1.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAiwCABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:11:35.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\SortForm.cs",
+              "RelativeDocumentMoniker": "App2\\SortForm.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\SortForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App2\\SortForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:28:53.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortForm.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\SortForm.cs",
+              "RelativeDocumentMoniker": "App2\\SortForm.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\SortForm.cs",
+              "RelativeToolTip": "App2\\SortForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:08:48.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAboutPr.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\FormAboutPr.cs",
+              "RelativeDocumentMoniker": "App2\\FormAboutPr.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\FormAboutPr.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App2\\FormAboutPr.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:31:06.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAboutPr.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\FormAboutPr.cs",
+              "RelativeDocumentMoniker": "App2\\FormAboutPr.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\FormAboutPr.cs",
+              "RelativeToolTip": "App2\\FormAboutPr.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:22:47.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Search.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Search.cs",
+              "RelativeDocumentMoniker": "App2\\Search.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Search.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App2\\Search.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:09:58.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Form2.cs",
+              "RelativeDocumentMoniker": "App2\\Form2.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\App3\\App2\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App2\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:50:29.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

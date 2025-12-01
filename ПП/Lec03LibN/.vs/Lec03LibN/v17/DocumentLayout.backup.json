@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\lec03libn\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\lec03libn\\bonusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\lec03libn\\salaryforl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\salaryforl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\lec03libn\\salaryforl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\salaryforl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\lec03libn\\bonusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FFA7BD-D60D-4997-A3B0-2828DDDE194A}|PP03\\PP03.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\pp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FFA7BD-D60D-4997-A3B0-2828DDDE194A}|PP03\\PP03.csproj|solutionrelative:pp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\lec03libn\\salaryforl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\salaryforl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FFA7BD-D60D-4997-A3B0-2828DDDE194A}|PP03\\PP03.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\pp03\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FFA7BD-D60D-4997-A3B0-2828DDDE194A}|PP03\\PP03.csproj|solutionrelative:pp03\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\lec03libn\\lec03libn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\lec03libn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec03libn\\lec03libn\\bonusc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonusc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lec03LibN.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\Lec03LibN.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\Lec03LibN.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\Lec03LibN.cs",
+              "RelativeToolTip": "Lec03LibN\\Lec03LibN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:43:09.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BonusB.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\BonusB.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusB.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\BonusB.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:42:41.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BonusA.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\BonusA.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusA.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\BonusA.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusA.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAywCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:42:18.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalaryForL2.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\SalaryForL2.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\SalaryForL2.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\SalaryForL2.cs",
+              "RelativeToolTip": "Lec03LibN\\SalaryForL2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:39:11.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFactory.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\IFactory.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\IFactory.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\IFactory.cs",
+              "RelativeToolTip": "Lec03LibN\\IFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:37:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BonusC.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\BonusC.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusC.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\BonusC.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusC.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA+wAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:55:02.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\PP03\\Employee.cs",
+              "RelativeDocumentMoniker": "PP03\\Employee.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\PP03\\Employee.cs",
+              "RelativeToolTip": "PP03\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:39:31.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalaryForL3.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\SalaryForL3.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\SalaryForL3.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\SalaryForL3.cs",
+              "RelativeToolTip": "Lec03LibN\\SalaryForL3.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:40:55.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryForL1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\SalaryForL1.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\SalaryForL1.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\Lec03LibN\\SalaryForL1.cs",
+              "RelativeToolTip": "Lec03LibN\\SalaryForL1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:38:35.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\PP03\\Program.cs",
+              "RelativeDocumentMoniker": "PP03\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec03LibN\\PP03\\Program.cs",
+              "RelativeToolTip": "PP03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:37:20.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

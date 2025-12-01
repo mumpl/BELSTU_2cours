@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "40oWPnFbucE=",
+  "success": false,
+  "projectFilePath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\TEST_DAL21_JSON\\TEST_DAL21_JSON.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Пакет \"System.Text.Encodings.Web.9.0.2\" указан в веб-канале \"nuget.org [https://api.nuget.org/v3/index.json]\", но после нескольких попыток не удалось скачать файл NUPKG. Указан недопустимый веб-канал либо необходимые пакеты были удалены во время выполнения текущей операции. Убедитесь, что пакет существует в веб-канале и повторите попытку."
+    }
+  ]
+}

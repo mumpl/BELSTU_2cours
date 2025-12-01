@@ -1,0 +1,14 @@
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\bin\Debug\net8.0\Lab5Lib.exe
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\bin\Debug\net8.0\Lab5Lib.deps.json
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\bin\Debug\net8.0\Lab5Lib.runtimeconfig.json
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\bin\Debug\net8.0\Lab5Lib.dll
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\bin\Debug\net8.0\Lab5Lib.pdb
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\obj\Debug\net8.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\obj\Debug\net8.0\Lab5Lib.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\obj\Debug\net8.0\Lab5Lib.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\obj\Debug\net8.0\Lab5Lib.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\obj\Debug\net8.0\Lab5Lib.dll
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\obj\Debug\net8.0\refint\Lab5Lib.dll
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\obj\Debug\net8.0\Lab5Lib.pdb
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\obj\Debug\net8.0\Lab5Lib.genruntimeconfig.cache
+D:\УЧЁБА\2 курс\ПП\Lab5Lib\Lab5Lib\obj\Debug\net8.0\ref\Lab5Lib.dll

@@ -1,0 +1,49 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <!--Login Window-->
+    <sys:String x:Key="Username">Имя пользователя:</sys:String>
+    <sys:String x:Key="Password">Пароль:</sys:String>
+    <sys:String x:Key="LoginButton">Войти</sys:String>
+    <sys:String x:Key="ClosePrButton">Закрыть</sys:String>
+    <sys:String x:Key="ChangeLanguage">Сменить язык</sys:String>
+
+    <!--MainWindow-->
+    <sys:String x:Key="Statistic">Статистика курсов</sys:String>
+    <sys:String x:Key="PopCoursesView">Популярное</sys:String>
+    <sys:String x:Key="MyCourses">Мои курсы</sys:String>
+    <sys:String x:Key="Students">Студенты</sys:String>
+    
+    <!--My Courses-->
+    <sys:String x:Key="AllTime">Всё время</sys:String>
+    <sys:String x:Key="Hours">748 часов</sys:String>
+    <sys:String x:Key="Month">Март</sys:String>
+
+    <sys:String x:Key="AciveStudents">На курсах</sys:String>
+    <sys:String x:Key="ChangeTheme">Сменить тему</sys:String>
+    <sys:String x:Key="Map">Мы на карте</sys:String>
+
+    <!--CoursesView-->
+    <sys:String x:Key="SearchText">Поиск...</sys:String>
+    <sys:String x:Key="PriceFrom">Цена от</sys:String>
+    <sys:String x:Key="PriceTo">до</sys:String>
+    <sys:String x:Key="Level">Уровень</sys:String>
+    <sys:String x:Key="Language">Язык</sys:String>
+    <sys:String x:Key="ResetFilters">Отменить</sys:String>
+    
+    <!--Courses Edit-->
+    <sys:String x:Key="CName">Название курса:</sys:String>
+    <sys:String x:Key="CCategory">Категория:</sys:String>
+    <sys:String x:Key="LQuantity">Количество уроков:</sys:String>
+    <sys:String x:Key="CDescription">Описание:</sys:String>
+    <sys:String x:Key="CPrice">Цена:</sys:String>
+    <sys:String x:Key="CLanguage">Язык:</sys:String>
+    <sys:String x:Key="SaveBtn">Сохранить</sys:String>
+    <sys:String x:Key="ResetBtn">Очистить</sys:String>
+
+    <sys:String x:Key="AddBtn">Добавить</sys:String>
+    <sys:String x:Key="EditBtn">Редактировать</sys:String>
+    <sys:String x:Key="DeleteBtn">Удалить</sys:String>
+    <sys:String x:Key="RefreshBtn">Обновить</sys:String>
+
+</ResourceDictionary>

@@ -1,0 +1,14 @@
+D:\УЧЁБА\2 курс\ООП\КР\КР\bin\Debug\net8.0\КР.exe
+D:\УЧЁБА\2 курс\ООП\КР\КР\bin\Debug\net8.0\КР.deps.json
+D:\УЧЁБА\2 курс\ООП\КР\КР\bin\Debug\net8.0\КР.runtimeconfig.json
+D:\УЧЁБА\2 курс\ООП\КР\КР\bin\Debug\net8.0\КР.dll
+D:\УЧЁБА\2 курс\ООП\КР\КР\bin\Debug\net8.0\КР.pdb
+D:\УЧЁБА\2 курс\ООП\КР\КР\obj\Debug\net8.0\КР.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ООП\КР\КР\obj\Debug\net8.0\КР.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ООП\КР\КР\obj\Debug\net8.0\КР.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ООП\КР\КР\obj\Debug\net8.0\КР.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ООП\КР\КР\obj\Debug\net8.0\КР.dll
+D:\УЧЁБА\2 курс\ООП\КР\КР\obj\Debug\net8.0\refint\КР.dll
+D:\УЧЁБА\2 курс\ООП\КР\КР\obj\Debug\net8.0\КР.pdb
+D:\УЧЁБА\2 курс\ООП\КР\КР\obj\Debug\net8.0\КР.genruntimeconfig.cache
+D:\УЧЁБА\2 курс\ООП\КР\КР\obj\Debug\net8.0\ref\КР.dll

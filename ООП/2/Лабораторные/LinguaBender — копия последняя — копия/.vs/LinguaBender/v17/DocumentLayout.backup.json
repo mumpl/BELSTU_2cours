@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\controls\\infocard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\controls\\infocard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\controls\\infocard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\controls\\infocard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\undoredo\\addcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\undoredo\\addcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\undoredo\\icommandaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\undoredo\\icommandaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\undoredo\\undoredomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\undoredo\\undoredomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\views\\coursesedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\views\\coursesedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\views\\coursesaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\views\\coursesaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\linguabender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\linguabender\\undoredo\\deletecoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68DA98B-F2A2-463B-888A-E3C7263B1EC8}|LinguaBender\\LinguaBender.csproj|solutionrelative:linguabender\\undoredo\\deletecoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfoCard.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\Controls\\InfoCard.xaml.cs",
+              "RelativeDocumentMoniker": "LinguaBender\\Controls\\InfoCard.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\Controls\\InfoCard.xaml.cs",
+              "RelativeToolTip": "LinguaBender\\Controls\\InfoCard.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA1wBIAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:44:07.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoCard.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\Controls\\InfoCard.xaml",
+              "RelativeDocumentMoniker": "LinguaBender\\Controls\\InfoCard.xaml",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\Controls\\InfoCard.xaml",
+              "RelativeToolTip": "LinguaBender\\Controls\\InfoCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T13:44:05.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\App.xaml",
+              "RelativeDocumentMoniker": "LinguaBender\\App.xaml",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\App.xaml",
+              "RelativeToolTip": "LinguaBender\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T13:22:51.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LinguaBender\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\MainWindow.xaml",
+              "RelativeToolTip": "LinguaBender\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T13:19:28.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LinguaBender\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LinguaBender\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAiwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:17:51.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LinguaBender\\App.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\App.xaml.cs",
+              "RelativeToolTip": "LinguaBender\\App.xaml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAtwHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:28:26.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteCourseCommand.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\UndoRedo\\DeleteCourseCommand.cs",
+              "RelativeDocumentMoniker": "LinguaBender\\UndoRedo\\DeleteCourseCommand.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\UndoRedo\\DeleteCourseCommand.cs",
+              "RelativeToolTip": "LinguaBender\\UndoRedo\\DeleteCourseCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:13:07.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCourseCommand.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\UndoRedo\\AddCourseCommand.cs",
+              "RelativeDocumentMoniker": "LinguaBender\\UndoRedo\\AddCourseCommand.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\UndoRedo\\AddCourseCommand.cs",
+              "RelativeToolTip": "LinguaBender\\UndoRedo\\AddCourseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:12:13.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UndoRedoManager.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\UndoRedo\\UndoRedoManager.cs",
+              "RelativeDocumentMoniker": "LinguaBender\\UndoRedo\\UndoRedoManager.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\UndoRedo\\UndoRedoManager.cs",
+              "RelativeToolTip": "LinguaBender\\UndoRedo\\UndoRedoManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:08:50.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommandAction.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\UndoRedo\\ICommandAction.cs",
+              "RelativeDocumentMoniker": "LinguaBender\\UndoRedo\\ICommandAction.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\UndoRedo\\ICommandAction.cs",
+              "RelativeToolTip": "LinguaBender\\UndoRedo\\ICommandAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:07:34.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoursesAddWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\Views\\CoursesAddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LinguaBender\\Views\\CoursesAddWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\Views\\CoursesAddWindow.xaml.cs",
+              "RelativeToolTip": "LinguaBender\\Views\\CoursesAddWindow.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:27:40.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoursesEdit.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\Views\\CoursesEdit.xaml.cs",
+              "RelativeDocumentMoniker": "LinguaBender\\Views\\CoursesEdit.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\LinguaBender \u2014 \u043A\u043E\u043F\u0438\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\LinguaBender\\Views\\CoursesEdit.xaml.cs",
+              "RelativeToolTip": "LinguaBender\\Views\\CoursesEdit.xaml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAewOkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:31:22.696Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 362,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

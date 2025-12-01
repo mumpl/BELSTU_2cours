@@ -1,0 +1,17 @@
+C:\Users\bubblechuk\source\repos\Services\bin\Debug\net8.0\CashCelebrities.deps.json
+C:\Users\bubblechuk\source\repos\Services\bin\Debug\net8.0\CashCelebrities.dll
+C:\Users\bubblechuk\source\repos\Services\bin\Debug\net8.0\CashCelebrities.pdb
+C:\Users\bubblechuk\source\repos\Services\bin\Debug\net8.0\DAL_LES.dll
+C:\Users\bubblechuk\source\repos\Services\bin\Debug\net8.0\ServiceLocator.dll
+C:\Users\bubblechuk\source\repos\Services\bin\Debug\net8.0\DAL_LES.pdb
+C:\Users\bubblechuk\source\repos\Services\bin\Debug\net8.0\ServiceLocator.pdb
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\CashCelebrities.csproj.AssemblyReference.cache
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\CashCelebrities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\CashCelebrities.AssemblyInfoInputs.cache
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\CashCelebrities.AssemblyInfo.cs
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\CashCelebrities.csproj.CoreCompileInputs.cache
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\CashCele.EE6BF461.Up2Date
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\CashCelebrities.dll
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\refint\CashCelebrities.dll
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\CashCelebrities.pdb
+C:\Users\bubblechuk\source\repos\Services\obj\Debug\net8.0\ref\CashCelebrities.dll

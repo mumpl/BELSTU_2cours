@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\DASMLQLX.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\DASMLQLX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\DASMLQLX.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\DASMLQLX.AssemblyInfo.cs
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\DASMLQLX.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\bin\Debug\net8.0\DASMLQLX.deps.json
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\bin\Debug\net8.0\DASMLQLX.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\bin\Debug\net8.0\DASMLQLX.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\bin\Debug\net8.0\REPO.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\bin\Debug\net8.0\REPO.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\DASMLQLX.csproj.Up2Date
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\DASMLQLX.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\refint\DASMLQLX.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\DASMLQLX.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DASMLQLX\obj\Debug\net8.0\ref\DASMLQLX.dll

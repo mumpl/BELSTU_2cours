@@ -1,0 +1,14 @@
+D:\yes\2 курс\3 sem\ООП\Лабы\lab14\lab14\bin\Debug\lab14.exe.config
+D:\yes\2 курс\3 sem\ООП\Лабы\lab14\lab14\bin\Debug\lab14.exe
+D:\yes\2 курс\3 sem\ООП\Лабы\lab14\lab14\bin\Debug\lab14.pdb
+D:\yes\2 курс\3 sem\ООП\Лабы\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+D:\yes\2 курс\3 sem\ООП\Лабы\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+D:\yes\2 курс\3 sem\ООП\Лабы\lab14\lab14\obj\Debug\lab14.exe
+D:\yes\2 курс\3 sem\ООП\Лабы\lab14\lab14\obj\Debug\lab14.pdb
+D:\УЧЁБА\2 курс\ООП\lab14\lab14\obj\Debug\lab14.exe
+D:\УЧЁБА\2 курс\ООП\lab14\lab14\obj\Debug\lab14.pdb
+D:\УЧЁБА\2 курс\ООП\lab14\lab14\bin\Debug\lab14.exe.config
+D:\УЧЁБА\2 курс\ООП\lab14\lab14\bin\Debug\lab14.exe
+D:\УЧЁБА\2 курс\ООП\lab14\lab14\bin\Debug\lab14.pdb
+D:\УЧЁБА\2 курс\ООП\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+D:\УЧЁБА\2 курс\ООП\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache

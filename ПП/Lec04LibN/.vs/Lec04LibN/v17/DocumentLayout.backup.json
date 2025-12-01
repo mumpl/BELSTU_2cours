@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec04LibN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0F362F-46A2-4038-9AC3-D74CAD1CE4DD}|Lec04LibN\\Lec04LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec04libn\\lec04libn\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0F362F-46A2-4038-9AC3-D74CAD1CE4DD}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0F362F-46A2-4038-9AC3-D74CAD1CE4DD}|Lec04LibN\\Lec04LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec04libn\\lec04libn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0F362F-46A2-4038-9AC3-D74CAD1CE4DD}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0F362F-46A2-4038-9AC3-D74CAD1CE4DD}|Lec04LibN\\Lec04LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec04libn\\lec04libn\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0F362F-46A2-4038-9AC3-D74CAD1CE4DD}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0F362F-46A2-4038-9AC3-D74CAD1CE4DD}|Lec04LibN\\Lec04LibN.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\lec04libn\\lec04libn\\log20241121-11-15-22.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD0F362F-46A2-4038-9AC3-D74CAD1CE4DD}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\log20241121-11-15-22.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LOG20241121-11-15-22.txt",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec04LibN\\Lec04LibN\\LOG20241121-11-15-22.txt",
+              "RelativeDocumentMoniker": "Lec04LibN\\LOG20241121-11-15-22.txt",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec04LibN\\Lec04LibN\\LOG20241121-11-15-22.txt",
+              "RelativeToolTip": "Lec04LibN\\LOG20241121-11-15-22.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-21T08:30:30.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec04LibN\\Lec04LibN\\Logger.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\Logger.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec04LibN\\Lec04LibN\\Logger.cs",
+              "RelativeToolTip": "Lec04LibN\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:08:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec04LibN\\Lec04LibN\\ILogger.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\ILogger.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec04LibN\\Lec04LibN\\ILogger.cs",
+              "RelativeToolTip": "Lec04LibN\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:06:07.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec04LibN\\Lec04LibN\\Program.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\Lec04LibN\\Lec04LibN\\Program.cs",
+              "RelativeToolTip": "Lec04LibN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:49:30.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

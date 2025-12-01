@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\bin\Debug\net8.0\DALJSONX.deps.json
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\bin\Debug\net8.0\DALJSONX.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\bin\Debug\net8.0\DALJSONX.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\bin\Debug\net8.0\REPO.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\bin\Debug\net8.0\REPO.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\DALJSONX.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\DALJSONX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\DALJSONX.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\DALJSONX.AssemblyInfo.cs
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\DALJSONX.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\DALJSONX.csproj.Up2Date
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\DALJSONX.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\refint\DALJSONX.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\DALJSONX.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\DALJSONX\obj\Debug\net8.0\ref\DALJSONX.dll

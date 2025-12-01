@@ -1,0 +1,12 @@
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\bin\Debug\net8.0\DBLevel.deps.json
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\bin\Debug\net8.0\DBLevel.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\bin\Debug\net8.0\DBLevel.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\obj\Debug\net8.0\DBLevel.csproj.AssemblyReference.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\obj\Debug\net8.0\DBLevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\obj\Debug\net8.0\DBLevel.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\obj\Debug\net8.0\DBLevel.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\obj\Debug\net8.0\DBLevel.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\obj\Debug\net8.0\DBLevel.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\obj\Debug\net8.0\refint\DBLevel.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\obj\Debug\net8.0\DBLevel.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DBLevel\obj\Debug\net8.0\ref\DBLevel.dll

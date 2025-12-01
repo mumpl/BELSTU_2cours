@@ -1,0 +1,14 @@
+D:\3sem\oop\lab15\lab15\bin\Debug\lab15.exe.config
+D:\3sem\oop\lab15\lab15\bin\Debug\lab15.exe
+D:\3sem\oop\lab15\lab15\bin\Debug\lab15.pdb
+D:\3sem\oop\lab15\lab15\obj\Debug\lab15.csproj.AssemblyReference.cache
+D:\3sem\oop\lab15\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+D:\3sem\oop\lab15\lab15\obj\Debug\lab15.exe
+D:\3sem\oop\lab15\lab15\obj\Debug\lab15.pdb
+D:\УЧЁБА\2 курс\ООП\lab15\lab15\bin\Debug\lab15.exe.config
+D:\УЧЁБА\2 курс\ООП\lab15\lab15\bin\Debug\lab15.exe
+D:\УЧЁБА\2 курс\ООП\lab15\lab15\bin\Debug\lab15.pdb
+D:\УЧЁБА\2 курс\ООП\lab15\lab15\obj\Debug\lab15.csproj.AssemblyReference.cache
+D:\УЧЁБА\2 курс\ООП\lab15\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ООП\lab15\lab15\obj\Debug\lab15.exe
+D:\УЧЁБА\2 курс\ООП\lab15\lab15\obj\Debug\lab15.pdb

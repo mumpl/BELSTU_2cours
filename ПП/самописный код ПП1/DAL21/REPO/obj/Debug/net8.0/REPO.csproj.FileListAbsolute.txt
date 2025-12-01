@@ -1,0 +1,12 @@
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\bin\Debug\net8.0\REPO.deps.json
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\bin\Debug\net8.0\REPO.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\bin\Debug\net8.0\REPO.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\obj\Debug\net8.0\REPO.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\obj\Debug\net8.0\REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\obj\Debug\net8.0\REPO.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\obj\Debug\net8.0\REPO.AssemblyInfo.cs
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\obj\Debug\net8.0\REPO.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\obj\Debug\net8.0\REPO.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\obj\Debug\net8.0\refint\REPO.dll
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\obj\Debug\net8.0\REPO.pdb
+C:\Users\New\Desktop\ПП\самописный код ПП1\DAL21\REPO\obj\Debug\net8.0\ref\REPO.dll

@@ -1,0 +1,168 @@
+﻿<Window x:Class="LinguaBender.Views.CoursesView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:uc="clr-namespace:LinguaBender.Controls"
+        Title="CoursesView" Height="760" Width="1280" Background="Transparent" ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None"
+        Icon="icon3.png">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVis"/>
+    </Window.Resources>
+
+    <Border Background="Transparent" CornerRadius="40" BorderThickness="2" BorderBrush="#ebedf3" Padding="20">
+        <Border CornerRadius="40">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                    <GradientStop Color="#fefefe" Offset="0"/>
+                    <GradientStop Color="#ededef" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Левое меню -->
+                <Border CornerRadius="30" Background="#7163ba" Margin="20">
+                    <Grid>
+                        <StackPanel VerticalAlignment="Top">
+                            <Button x:Name="HomeButton" Style="{StaticResource topMenuButton}" Margin="10" Click="HomeButton_Click" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave">
+                                <Icon:PackIconMaterial Kind="HomeVariant" Style="{StaticResource menuButtonIcon}"/>
+                            </Button>
+
+                            <Separator Background="#877cc5" Margin="20 0 20 10" Height="0.8"/>
+
+                            <Button x:Name="StudentsView" Style="{StaticResource topMenuButton}" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave" Click="StudentsView_Click">
+                                <Icon:PackIconMaterial Kind="AccountGroup" Style="{StaticResource menuButtonIcon}"/>
+                            </Button>
+
+                            <Separator Background="#877cc5" Margin="20 10 20 10" Height="0.8"/>
+
+                            <Button Style="{StaticResource topMenuButton}" Background="#5a5080" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave">
+                                <Icon:PackIconMaterial Kind="FileDocumentEditOutline" Style="{StaticResource menuButtonIcon}"/>
+                            </Button>
+
+                            <Separator Background="#877cc5" Margin="20 10 20 10" Height="0.8"/>
+
+                            <Button x:Name="StudentEdit" Style="{StaticResource topMenuButton}" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave" Click="StudentEdit_Click">
+                                <Icon:PackIconMaterial Kind="AccountFile" Style="{StaticResource menuButtonIcon}"/>
+                            </Button>
+
+                            <Separator Background="#877cc5" Margin="20 10 20 10" Height="0.8"/>
+
+                            <Button x:Name="CourseEdit" Style="{StaticResource topMenuButton}" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave" Click="CourseEdit_Click">
+                                <Icon:PackIconMaterial Kind="FileDocumentPlus" Style="{StaticResource menuButtonIcon}"/>
+                            </Button>
+                        </StackPanel>
+
+                        <Separator Background="#877cc5" Margin="20 0 20 90" Height="0.8" VerticalAlignment="Bottom"/>
+
+                        <Button x:Name="CloseButton" Style="{StaticResource menuButton}" VerticalAlignment="Bottom" Margin="0 0 0 25" Click="CloseButton_Click" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave">
+                            <Icon:PackIconMaterial Kind="LocationExit" Style="{StaticResource menuButtonIcon}"/>
+                        </Button>
+                    </Grid>
+                </Border>
+
+                <!-- Основной контент -->
+                <Grid Grid.Column="1" Margin="20">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="70"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Поиск -->
+                    <Grid Margin="10">
+                        <TextBlock x:Name="SearchText" Margin="40 0 0 0" VerticalAlignment="Center" Foreground="#594f7f" 
+                                   IsHitTestVisible="False" Panel.ZIndex="1" 
+                                   Text="{StaticResource SearchText}"
+                                   Visibility="{Binding ElementName=txtSearch, Path=Text.IsEmpty, Converter={StaticResource BoolToVis}}"/>
+                        <TextBox x:Name="txtSearch" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource searchTextBox}"/>
+                        <Icon:PackIconMaterial Kind="Magnify" Width="14" Height="14" Foreground="#594f7f" 
+                                               HorizontalAlignment="Left" VerticalAlignment="Center" Margin="15 0 0 0"/>
+                    </Grid>
+
+                    <!-- Аватар пользователя -->
+                    <Ellipse Width="45" Height="45" Margin="15 0 7 0" Grid.Column="2" HorizontalAlignment="Right">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="/images/david.png"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    
+                    <!--Сортировки-->
+                    <Border CornerRadius="20" Background="#ebecf0" Grid.Row="1">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="300"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <!-- Фильтр по цене -->
+                            <StackPanel Orientation="Horizontal" Margin="10">
+                                <TextBlock x:Name="PriceFrom" Text="{StaticResource PriceFrom}" VerticalAlignment="Center" FontWeight="Bold" TextAlignment="Center" Foreground="#594f7f" Margin="15,0,5,0"/>
+
+                                <!-- Выбор минимальной цены -->
+                                <ComboBox Height="26" ItemsSource="{Binding PriceOptions}" SelectedItem="{Binding MinPrice, Mode=TwoWay}" Width="80" Margin="5,0"/>
+
+                                <TextBlock x:Name="PriceTo" Text="{StaticResource PriceTo}" VerticalAlignment="Center" FontWeight="Bold" TextAlignment="Center" Foreground="#594f7f"/>
+
+                                <!-- Выбор максимальной цены -->
+                                <ComboBox ItemsSource="{Binding PriceOptions}" SelectedItem="{Binding MaxPrice, Mode=TwoWay}" Width="80" Margin="5,0" Height="26"/>
+                            </StackPanel>
+
+                            <!-- Фильтр по уровню -->
+                            <StackPanel Orientation="Vertical" Margin="10" Grid.Column="1">
+                                <TextBlock x:Name="Level" Text="{StaticResource Level}" FontWeight="Bold" TextAlignment="Center" Foreground="#594f7f"/>
+                                <ComboBox Margin="5" ItemsSource="{Binding Categories}" SelectedItem="{Binding SelectedCategory, Mode=TwoWay}" Width="150"/>
+                            </StackPanel>
+
+                            <!-- Фильтр по языку -->
+                            <StackPanel Orientation="Vertical" Margin="10" Grid.Column="2">
+                                <TextBlock x:Name="Language" Text="{StaticResource Language}" TextAlignment="Center" FontWeight="Bold" Foreground="#594f7f"/>
+                                <ComboBox Margin="5" ItemsSource="{Binding Languages}" SelectedItem="{Binding SelectedLanguage, Mode=TwoWay}" Width="150"/>
+                            </StackPanel>
+
+                            <!-- Кнопка сброса -->
+                            <Button x:Name="ResetFilters" FontSize="16" Content="{StaticResource ResetFilters}" Grid.Column="3" Margin="10" Width="140" Height="50" Click="ResetFilters_Click" Style="{StaticResource tabButton}" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave"/>
+                        </Grid>
+                        
+                    </Border>
+
+                    <!-- Карточки курсов -->
+                    <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Auto" Margin="0 10 0 0">
+                        <ItemsControl ItemsSource="{Binding FilteredCourses}">
+                            <ItemsControl.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center"/>
+                                </ItemsPanelTemplate>
+                            </ItemsControl.ItemsPanel>
+
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <uc:InfoCard Title="{Binding Course_Name}" 
+                                                 Desc="{Binding Description}" 
+                                                 Persentage="{Binding Lessons}" 
+                                                 BottomText="{Binding Category}"
+                                                 Days="{Binding Price}"
+                                                 Icon="Book"
+                                                 Width="320" Height="200"
+                                                 Margin="0 30 0 0"/>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </ScrollViewer>
+                </Grid>
+            </Grid>
+        </Border>
+    </Border>
+</Window>

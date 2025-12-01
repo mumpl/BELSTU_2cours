@@ -1,0 +1,14 @@
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\obj\Debug\net8.0\Lec04LibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\obj\Debug\net8.0\Lec04LibN.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\obj\Debug\net8.0\Lec04LibN.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\obj\Debug\net8.0\Lec04LibN.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\bin\Debug\net8.0\Lec04LibN.exe
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\bin\Debug\net8.0\Lec04LibN.deps.json
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\bin\Debug\net8.0\Lec04LibN.runtimeconfig.json
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\bin\Debug\net8.0\Lec04LibN.dll
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\bin\Debug\net8.0\Lec04LibN.pdb
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\obj\Debug\net8.0\Lec04LibN.dll
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\obj\Debug\net8.0\refint\Lec04LibN.dll
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\obj\Debug\net8.0\Lec04LibN.pdb
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\obj\Debug\net8.0\Lec04LibN.genruntimeconfig.cache
+D:\УЧЁБА\2 курс\ПП\Lec04LibN\Lec04LibN\obj\Debug\net8.0\ref\Lec04LibN.dll

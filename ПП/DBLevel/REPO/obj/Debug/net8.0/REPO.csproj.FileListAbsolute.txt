@@ -1,0 +1,12 @@
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\bin\Debug\net8.0\REPO.deps.json
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\bin\Debug\net8.0\REPO.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\bin\Debug\net8.0\REPO.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\obj\Debug\net8.0\REPO.csproj.AssemblyReference.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\obj\Debug\net8.0\REPO.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\obj\Debug\net8.0\REPO.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\obj\Debug\net8.0\REPO.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\obj\Debug\net8.0\REPO.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\obj\Debug\net8.0\REPO.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\obj\Debug\net8.0\refint\REPO.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\obj\Debug\net8.0\REPO.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\REPO\obj\Debug\net8.0\ref\REPO.dll

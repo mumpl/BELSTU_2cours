@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHc37nzpiic=",
+  "success": true,
+  "projectFilePath": "D:\\УЧЁБА\\2 курс\\ПП\\lab04\\Test_ServiceLocator\\Test_ServiceLocator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

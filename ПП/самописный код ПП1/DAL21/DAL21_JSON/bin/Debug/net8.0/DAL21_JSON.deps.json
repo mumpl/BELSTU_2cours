@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DAL21_JSON/1.0.0": {
+        "runtime": {
+          "DAL21_JSON.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DAL21_JSON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

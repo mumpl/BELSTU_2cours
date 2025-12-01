@@ -1,0 +1,14 @@
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\bin\Debug\net8.0\Lab6Lib.exe
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\bin\Debug\net8.0\Lab6Lib.deps.json
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\bin\Debug\net8.0\Lab6Lib.runtimeconfig.json
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\bin\Debug\net8.0\Lab6Lib.dll
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\bin\Debug\net8.0\Lab6Lib.pdb
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.dll
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\obj\Debug\net8.0\refint\Lab6Lib.dll
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.pdb
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.genruntimeconfig.cache
+D:\УЧЁБА\2 курс\ПП\Lab6Lib\Lab6Lib\obj\Debug\net8.0\ref\Lab6Lib.dll

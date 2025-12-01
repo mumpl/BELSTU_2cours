@@ -1,0 +1,15 @@
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\bin\Debug\net8.0\DALMSQLXG.deps.json
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\bin\Debug\net8.0\DALMSQLXG.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\bin\Debug\net8.0\DALMSQLXG.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\bin\Debug\net8.0\GREPO.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\bin\Debug\net8.0\GREPO.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.csproj.AssemblyReference.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.csproj.Up2Date
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\refint\DALMSQLXG.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALMSQLXG\obj\Debug\net8.0\ref\DALMSQLXG.dll

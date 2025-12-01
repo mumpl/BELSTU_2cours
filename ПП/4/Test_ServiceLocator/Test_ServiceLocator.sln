@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_ServiceLocator", "Test_ServiceLocator.csproj", "{9BB6DB78-E835-43AC-854A-F253D0B7673A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLocator", "..\ServiceLocator\ServiceLocator.csproj", "{CD1358B4-0166-490B-B05B-0BC9F6C3FDD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_LES", "..\DAL_LES\DAL_LES.csproj", "{242394B4-2CBE-44EB-8BFD-AE5B0BCA7958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_DAL_LES", "..\Test_DAL_LES\Test_DAL_LES.csproj", "{0443DF6C-5AD9-45F3-9752-C02C557B9068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_SL_LES", "..\Test_SL_LES\Test_SL_LES.csproj", "{CB0DC7CC-0F34-4A42-AAAA-B0B1DE874A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashCelebrities", "..\Services\CashCelebrities.csproj", "{A507326F-8EDB-450F-AB3A-6F1C417A4D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB6DB78-E835-43AC-854A-F253D0B7673A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB6DB78-E835-43AC-854A-F253D0B7673A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB6DB78-E835-43AC-854A-F253D0B7673A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB6DB78-E835-43AC-854A-F253D0B7673A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1358B4-0166-490B-B05B-0BC9F6C3FDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1358B4-0166-490B-B05B-0BC9F6C3FDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1358B4-0166-490B-B05B-0BC9F6C3FDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1358B4-0166-490B-B05B-0BC9F6C3FDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242394B4-2CBE-44EB-8BFD-AE5B0BCA7958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242394B4-2CBE-44EB-8BFD-AE5B0BCA7958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242394B4-2CBE-44EB-8BFD-AE5B0BCA7958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242394B4-2CBE-44EB-8BFD-AE5B0BCA7958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0443DF6C-5AD9-45F3-9752-C02C557B9068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0443DF6C-5AD9-45F3-9752-C02C557B9068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0443DF6C-5AD9-45F3-9752-C02C557B9068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0443DF6C-5AD9-45F3-9752-C02C557B9068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0DC7CC-0F34-4A42-AAAA-B0B1DE874A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0DC7CC-0F34-4A42-AAAA-B0B1DE874A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0DC7CC-0F34-4A42-AAAA-B0B1DE874A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0DC7CC-0F34-4A42-AAAA-B0B1DE874A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A507326F-8EDB-450F-AB3A-6F1C417A4D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A507326F-8EDB-450F-AB3A-6F1C417A4D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A507326F-8EDB-450F-AB3A-6F1C417A4D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A507326F-8EDB-450F-AB3A-6F1C417A4D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF283EFC-67F1-4DD4-9AC7-CF590BFF7564}
+	EndGlobalSection
+EndGlobal

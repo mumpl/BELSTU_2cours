@@ -1,0 +1,15 @@
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\bin\Debug\net8.0\DALJSONX.deps.json
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\bin\Debug\net8.0\DALJSONX.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\bin\Debug\net8.0\DALJSONX.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\bin\Debug\net8.0\REPO.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\bin\Debug\net8.0\REPO.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\DALJSONX.csproj.AssemblyReference.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\DALJSONX.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\DALJSONX.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\DALJSONX.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\DALJSONX.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\DALJSONX.csproj.Up2Date
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\DALJSONX.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\refint\DALJSONX.dll
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\DALJSONX.pdb
+D:\УЧЁБА\2 курс\ПП\DBLevel\DALJSONX\obj\Debug\net8.0\ref\DALJSONX.dll

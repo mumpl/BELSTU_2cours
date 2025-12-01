@@ -1,0 +1,43 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="LinguaBender.LoginWindow"
+        Title="Вход в систему" Height="408" Width="402" Background="Transparent" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen"
+        Icon="images/icon3.png">
+
+    <Border Background="#cfd5e5" CornerRadius="40" BorderThickness="2" BorderBrush="#ebedf3" Padding="20">
+        <Border CornerRadius="40" Margin="0,0,0,-2">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                    <GradientStop Color="#fefefe" Offset="0"/>
+                    <GradientStop Color="#ededef" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <Grid>
+                <StackPanel Margin="20">
+                    <TextBlock x:Name="Username" Text="{StaticResource Username}" Style="{StaticResource titleText}" Margin="0 5 0 10"/>
+                    <TextBox x:Name="loginTextBox" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource searchTextBox}" Background="White"/>
+
+                    <TextBlock x:Name="Password" Text="{StaticResource Password}" Margin="0 5 0 10" Style="{StaticResource titleText}"/>
+                    <PasswordBox x:Name="passwordTextBox" PasswordChanged="passwordTextBox_PasswordChanged" Background="White"/>
+
+                    <Button x:Name="LoginButton" Content="{StaticResource LoginButton}" Margin="0,10,0,0" Command="{Binding LoginCommand}" Click="LoginButton_Click" IsEnabled="False"
+                            Background="#7163ba" Foreground="White" Style="{StaticResource tabButton}" Width="100" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave"/>
+                    <TextBlock x:Name="ChangeLanguage" Text="{StaticResource ChangeLanguage}" Style="{StaticResource titleText}" TextAlignment="Center" FontSize="14" Margin="10"/>
+                    <ComboBox x:Name="LanguageSelector" SelectionChanged="LanguageSelector_SelectionChanged" Width="150" Margin="0">
+                        <ComboBoxItem Content="Русский" Tag="ru-RU" IsSelected="True"/>
+                        <ComboBoxItem Content="English" Tag="en-US"/>
+                    </ComboBox>
+
+                    <Button x:Name="ClosePrButton" Content="{StaticResource ClosePrButton}" Margin="40" Width="100" Click="ClosePrButton_Click" Style="{StaticResource tabButton}" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave"/>
+                    
+
+
+                </StackPanel>
+
+
+            </Grid>
+        </Border>
+    </Border>
+</Window>

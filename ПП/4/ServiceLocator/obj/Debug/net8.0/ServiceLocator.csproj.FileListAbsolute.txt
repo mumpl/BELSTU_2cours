@@ -1,0 +1,12 @@
+C:\Users\bubblechuk\source\repos\ServiceLocator\bin\Debug\net8.0\ServiceLocator.deps.json
+C:\Users\bubblechuk\source\repos\ServiceLocator\bin\Debug\net8.0\ServiceLocator.dll
+C:\Users\bubblechuk\source\repos\ServiceLocator\bin\Debug\net8.0\ServiceLocator.pdb
+C:\Users\bubblechuk\source\repos\ServiceLocator\obj\Debug\net8.0\ServiceLocator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubblechuk\source\repos\ServiceLocator\obj\Debug\net8.0\ServiceLocator.AssemblyInfoInputs.cache
+C:\Users\bubblechuk\source\repos\ServiceLocator\obj\Debug\net8.0\ServiceLocator.AssemblyInfo.cs
+C:\Users\bubblechuk\source\repos\ServiceLocator\obj\Debug\net8.0\ServiceLocator.csproj.CoreCompileInputs.cache
+C:\Users\bubblechuk\source\repos\ServiceLocator\obj\Debug\net8.0\ServiceLocator.dll
+C:\Users\bubblechuk\source\repos\ServiceLocator\obj\Debug\net8.0\refint\ServiceLocator.dll
+C:\Users\bubblechuk\source\repos\ServiceLocator\obj\Debug\net8.0\ServiceLocator.pdb
+C:\Users\bubblechuk\source\repos\ServiceLocator\obj\Debug\net8.0\ref\ServiceLocator.dll
+C:\Users\bubblechuk\source\repos\ServiceLocator\obj\Debug\net8.0\ServiceLocator.csproj.AssemblyReference.cache

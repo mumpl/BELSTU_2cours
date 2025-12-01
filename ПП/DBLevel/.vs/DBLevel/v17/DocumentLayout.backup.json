@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\DBLevel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BBA5A-F12E-4189-82E0-1D5EBBFAE4A5}|ServiceLocator\\ServiceLocator.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\dblevel\\servicelocator\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BBA5A-F12E-4189-82E0-1D5EBBFAE4A5}|ServiceLocator\\ServiceLocator.csproj|solutionrelative:servicelocator\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BBA5A-F12E-4189-82E0-1D5EBBFAE4A5}|ServiceLocator\\ServiceLocator.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\dblevel\\servicelocator\\servicescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BBA5A-F12E-4189-82E0-1D5EBBFAE4A5}|ServiceLocator\\ServiceLocator.csproj|solutionrelative:servicelocator\\servicescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C546E4B-AD59-4BB7-A709-1D0B23D73624}|Test_ServiceLocator\\Test_ServiceLocator.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\dblevel\\test_servicelocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C546E4B-AD59-4BB7-A709-1D0B23D73624}|Test_ServiceLocator\\Test_ServiceLocator.csproj|solutionrelative:test_servicelocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceLocator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\DBLevel\\ServiceLocator\\ServiceLocator.cs",
+              "RelativeDocumentMoniker": "ServiceLocator\\ServiceLocator.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\DBLevel\\ServiceLocator\\ServiceLocator.cs",
+              "RelativeToolTip": "ServiceLocator\\ServiceLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:27:03.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceScope.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\DBLevel\\ServiceLocator\\ServiceScope.cs",
+              "RelativeDocumentMoniker": "ServiceLocator\\ServiceScope.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\DBLevel\\ServiceLocator\\ServiceScope.cs",
+              "RelativeToolTip": "ServiceLocator\\ServiceScope.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:26:52.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\DBLevel\\Test_ServiceLocator\\Program.cs",
+              "RelativeDocumentMoniker": "Test_ServiceLocator\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\DBLevel\\Test_ServiceLocator\\Program.cs",
+              "RelativeToolTip": "Test_ServiceLocator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:21:42.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

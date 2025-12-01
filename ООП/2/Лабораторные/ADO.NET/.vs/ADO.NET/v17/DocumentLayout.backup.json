@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ADO.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B890FC-AB15-49B3-B112-412EB1A804F8}|ADO.NET\\ADO.NET.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ado.net\\ado.net\\data\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B890FC-AB15-49B3-B112-412EB1A804F8}|ADO.NET\\ADO.NET.csproj|solutionrelative:ado.net\\data\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B890FC-AB15-49B3-B112-412EB1A804F8}|ADO.NET\\ADO.NET.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ado.net\\ado.net\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B890FC-AB15-49B3-B112-412EB1A804F8}|ADO.NET\\ADO.NET.csproj|solutionrelative:ado.net\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B890FC-AB15-49B3-B112-412EB1A804F8}|ADO.NET\\ADO.NET.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ado.net\\ado.net\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4B890FC-AB15-49B3-B112-412EB1A804F8}|ADO.NET\\ADO.NET.csproj|solutionrelative:ado.net\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B890FC-AB15-49B3-B112-412EB1A804F8}|ADO.NET\\ADO.NET.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ado.net\\ado.net\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4B890FC-AB15-49B3-B112-412EB1A804F8}|ADO.NET\\ADO.NET.csproj|solutionrelative:ado.net\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ADO.NET\\ADO.NET\\Data\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "ADO.NET\\Data\\CourseRepository.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ADO.NET\\ADO.NET\\Data\\CourseRepository.cs",
+              "RelativeToolTip": "ADO.NET\\Data\\CourseRepository.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAIwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:49:37.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ADO.NET\\ADO.NET\\App.config",
+              "RelativeDocumentMoniker": "ADO.NET\\App.config",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ADO.NET\\ADO.NET\\App.config",
+              "RelativeToolTip": "ADO.NET\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-15T13:25:08.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ADO.NET\\ADO.NET\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "ADO.NET\\Data\\DatabaseHelper.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ADO.NET\\ADO.NET\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "ADO.NET\\Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:24:04.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ADO.NET\\ADO.NET\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ADO.NET\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\ADO.NET\\ADO.NET\\MainWindow.xaml",
+              "RelativeToolTip": "ADO.NET\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-15T08:32:52.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

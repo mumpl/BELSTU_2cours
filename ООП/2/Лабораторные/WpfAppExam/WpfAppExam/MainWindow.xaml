@@ -1,0 +1,51 @@
+﻿<Window x:Class="WpfAppExam.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppExam"
+        mc:Ignorable="d"
+        Title="Всё" Height="450" Width="800">
+    <StackPanel>
+        <TextBox x:Name="num1" Margin="0 0 0 5"/>
+        <TextBox x:Name="num2" Margin="0 0 0 5"/>
+        <ComboBox x:Name="combobox" Margin="0 0 0 5">
+            <ComboBoxItem Content="+"/>
+            <ComboBoxItem Content="-"/>
+            <ComboBoxItem Content="*"/>
+            <ComboBoxItem Content="/"/>
+        </ComboBox>
+        <Button x:Name="calculateButton" Content="Вычислить" Click="calculateButton_Click"/>
+        <TextBlock x:Name="result" Margin="0 0 0 5" />
+
+        <StackPanel Margin="0 0 0 5">
+           <TextBox x:Name="inputTextBox" Margin="0 0 0 5" TextChanged="inputTextBox_TextChanged"/> 
+           <TextBlock x:Name="charCount" Margin="0 0 0 5"/>
+           <TextBlock x:Name="WordCount" Margin="0 0 0 5"/>
+            
+        </StackPanel>
+        <StackPanel>
+            <ComboBox x:Name="ComboBoxBackgroundColor" SelectionChanged="ComboBoxBackgroundColor_SelectionChanged">
+                <ComboBoxItem  Content="black" Background="Black"/>
+                <ComboBoxItem Content="yellow" Background="Yellow"/>
+                <ComboBoxItem  Content="green" Background="Green"/>
+            </ComboBox>
+            <ComboBox x:Name="ComboBoxText" SelectionChanged="ComboBoxBackgroundColor_SelectionChanged">
+                <ComboBoxItem Content="white" Foreground="white"/>
+                <ComboBoxItem Content="black" Foreground="Black"/>
+                <ComboBoxItem Content="blue" Foreground="Blue"/>
+            </ComboBox>
+            <TextBlock x:Name="TextBlockColorChanged" Text="hello world!" FontSize="20"/>
+        </StackPanel>
+        <StackPanel>
+           <TextBox x:Name="TextBoxNumbers" TextChanged="TextBoxNumbers_TextChanged"/> 
+           <ListBox x:Name="ListBoxNumbers" /> 
+        </StackPanel>
+        <StackPanel>
+            <TextBox x:Name="CInput" TextChanged="CInput_TextChanged"/>
+            <TextBlock x:Name="FOutput" />
+            <TextBox x:Name="FInput" TextChanged="FInput_TextChanged" />
+            <TextBlock x:Name="COutput" />
+        </StackPanel>
+    </StackPanel>
+</Window>

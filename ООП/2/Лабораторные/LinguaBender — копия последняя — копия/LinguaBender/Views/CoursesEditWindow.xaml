@@ -1,0 +1,58 @@
+﻿<Window x:Class="LinguaBender.Views.CoursesEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактировать курс"
+        Height="737" Width="640"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent" 
+        WindowStyle="None" AllowsTransparency="True"
+        Icon="icon3.png">
+
+    <Border Background="{DynamicResource MainBorder}" CornerRadius="40" BorderThickness="2" Padding="20">
+        <Border CornerRadius="40" Background="{DynamicResource Gradient}">
+            
+            <Grid Margin="20 20 20 20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="{StaticResource CourseEdit}" x:Name="CourseEdit"
+                           FontSize="30"
+                           FontWeight="Bold"
+                           Margin="0 0 0 20"
+                           HorizontalAlignment="Center" Style="{StaticResource titleText}"/>
+
+                <StackPanel Grid.Row="1" Margin="0,10,0,45" HorizontalAlignment="Center" Width="500" >
+                    <TextBlock x:Name="CName" Text="{StaticResource CName}" Style="{StaticResource titleText}"/>
+                    <TextBox x:Name="CourseName" Margin="0 5 0 15"/>
+
+                    <TextBlock x:Name="CCategory" Text="{StaticResource CCategory}" Style="{StaticResource titleText}"/>
+                    <TextBox x:Name="CourseCategory" Margin="0 5 0 15"/>
+
+                    <TextBlock x:Name="LQuantity" Text="{StaticResource LQuantity}" Style="{StaticResource titleText}"/>
+                    <TextBox x:Name="LessonsQuantity" Margin="0 5 0 15"/>
+
+                    <TextBlock x:Name="CDescription" Text="{StaticResource CDescription}" Style="{StaticResource titleText}"/>
+                    <TextBox x:Name="CourseDescription" Margin="0 5 0 15" AcceptsReturn="True" Height="50" TextWrapping="Wrap"/>
+
+                    <TextBlock x:Name="CPrice" Text="{StaticResource CPrice}" Style="{StaticResource titleText}"/>
+                    <TextBox x:Name="CoursePrice" Margin="0 5 0 15"/>
+
+                    <TextBlock x:Name="CLanguage" Text="{StaticResource CLanguage}" Style="{StaticResource titleText}"/>
+                    <TextBox x:Name="CourseLanguage" Margin="0 5 0 15"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 0 0 0">
+                    <Button  Content="{StaticResource SaveBtn}" x:Name="SaveBtn"  Width="140" Height="40" Margin="10" Style="{StaticResource tabButton}"  Background="#7163ba" Foreground="white" Click="SaveCourse"/>
+
+                    <Button Content="{StaticResource BackBtn}" x:Name="BackBtn" Width="140" Height="40" Margin="10" Click="ResetCourse" Style="{StaticResource tabButton}"  Background="#7163ba" Foreground="white"/>
+                </StackPanel>
+
+                <Button Grid.Row="3"  x:Name="CloseAddButton" Content="{StaticResource ClosePrButton}" Width="140" Height="40" Margin="10" Click="Close" Style="{StaticResource tabButton}"/>
+            </Grid>
+        </Border>
+    </Border>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\DAL_LES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\DAL_LES.AssemblyInfoInputs.cache
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\DAL_LES.AssemblyInfo.cs
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\DAL_LES.csproj.CoreCompileInputs.cache
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\DAL_LES.csproj.AssemblyReference.cache
+C:\Users\bubblechuk\source\repos\DAL_LES\bin\Debug\net8.0\DAL_LES.deps.json
+C:\Users\bubblechuk\source\repos\DAL_LES\bin\Debug\net8.0\DAL_LES.dll
+C:\Users\bubblechuk\source\repos\DAL_LES\bin\Debug\net8.0\DAL_LES.pdb
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\DAL_LES.dll
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\refint\DAL_LES.dll
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\DAL_LES.pdb
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\ref\DAL_LES.dll
+C:\Users\bubblechuk\source\repos\DAL_LES\bin\Debug\net8.0\DAL_LES.runtimeconfig.json
+C:\Users\bubblechuk\source\repos\DAL_LES\obj\Debug\net8.0\DAL_LES.genruntimeconfig.cache

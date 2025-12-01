@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FullName>а а а</FullName>
+    <BirthDate>2024-04-02T00:00:00</BirthDate>
+    <Specialization>Цифровой дизайн</Specialization>
+    <Course>4</Course>
+    <Group>4</Group>
+    <AverageMark>7</AverageMark>
+    <Gender>Ж</Gender>
+    <WorkPlace>
+      <Company>а</Company>
+      <Position>п</Position>
+      <Experience>3</Experience>
+    </WorkPlace>
+  </Student>
+  <Student>
+    <FullName>а а а</FullName>
+    <BirthDate>2024-04-02T00:00:00</BirthDate>
+    <Specialization>Цифровой дизайн</Specialization>
+    <Course>4</Course>
+    <Group>4</Group>
+    <AverageMark>7</AverageMark>
+    <Gender>Ж</Gender>
+  </Student>
+</ArrayOfStudent>

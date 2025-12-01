@@ -1,0 +1,12 @@
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\bin\Debug\net8.0\ServiceLocator.deps.json
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\bin\Debug\net8.0\ServiceLocator.dll
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\bin\Debug\net8.0\ServiceLocator.pdb
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.csproj.AssemblyReference.cache
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.AssemblyInfoInputs.cache
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.AssemblyInfo.cs
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.dll
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\obj\Debug\net8.0\refint\ServiceLocator.dll
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.pdb
+D:\УЧЁБА\2 курс\ПП\lab4\lab4\ServiceLocator\obj\Debug\net8.0\ref\ServiceLocator.dll

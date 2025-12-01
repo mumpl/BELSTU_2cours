@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+
+<body>
+	<script>
+		// 1
+		const array = new Uint8Array(5); // Генерация массива случайных чисел
+		crypto.getRandomValues(array);
+
+		console.log("Случайные числа:", array);
+		// 2
+		const surname = "Авчинник Елизавета Сергеевна";
+
+		// Функция для шифрования и дешифрования (AES-CTR)
+		async function encryptDecryptAESCTR(text) {
+			const encoder = new TextEncoder();
+			const encodedText = encoder.encode(text);
+
+			const key = await crypto.subtle.generateKey(
+				{ name: "AES-CTR", length: 128 },
+				true,
+				["encrypt", "decrypt"]
+			);
+
+			const iv = crypto.getRandomValues(new Uint8Array(16));
+
+			const encrypted = await crypto.subtle.encrypt(
+				{ name: "AES-CTR", counter: iv, length: 64 },
+				key,
+				encodedText
+			);
+			console.log("Зашифрованные данные:", new Uint8Array(encrypted));
+
+			const decrypted = await crypto.subtle.decrypt(
+				{ name: "AES-CTR", counter: iv, length: 64 },
+				key,
+				encrypted
+			);
+			const decoder = new TextDecoder();
+			console.log("Расшифрованный текст:", decoder.decode(decrypted));
+		}
+
+		// Функция для хеширования (SHA-1)
+		async function hashSHA1(text) {
+			const encoder = new TextEncoder();
+			const encodedText = encoder.encode(text);
+
+			// Хеширование текста
+			const hashBuffer = await crypto.subtle.digest("SHA-1", encodedText);
+			const hashArray = Array.from(new Uint8Array(hashBuffer)); // Преобразование в массив байтов
+			const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join(''); // Преобразование в HEX
+			console.log("Хэш (SHA-1):", hashHex);
+		}
+
+		// Выполнение
+		encryptDecryptAESCTR(surname); 
+		hashSHA1(surname); 
+		//4
+		async function wrapUnwrapKey() {
+			// Генерация ключа для упаковки (AES-KW)
+			const wrappingKey = await crypto.subtle.generateKey(
+				{ name: "AES-KW", length: 256 },
+				true,
+				["wrapKey", "unwrapKey"]
+			);
+
+			// Генерация ключа для шифрования (AES-GCM)
+			const keyToWrap = await crypto.subtle.generateKey(
+				{ name: "AES-GCM", length: 256 },
+				true,
+				["encrypt", "decrypt"]
+			);
+
+			// Упаковка
+			const wrappedKey = await crypto.subtle.wrapKey(
+				"raw",            // Формат
+				keyToWrap,        
+				wrappingKey,      
+				{ name: "AES-KW" } 
+			);
+			console.log("Упакованный ключ:", new Uint8Array(wrappedKey));
+
+			// Распаковка ключа
+			const unwrappedKey = await crypto.subtle.unwrapKey(
+				"raw",            // Формат ключа
+				wrappedKey,       
+				wrappingKey,      
+				{ name: "AES-KW" },// Алгоритм распаковки
+				{ name: "AES-GCM", length: 256 }, // Параметры ключа
+				true,             // Возможность экспорта ключа
+				["encrypt", "decrypt"] // Использование ключа
+			);
+			console.log("Распакованный ключ:", unwrappedKey);
+		}
+
+		wrapUnwrapKey();
+		//5
+		async function signVerifyMessage() {
+			// Генерация
+			const keyPair = await crypto.subtle.generateKey(
+				{ name: "ECDSA", namedCurve: "P-256" }, // Алгоритм и параметры
+				true,                                  // Возможность экспорта ключей
+				["sign", "verify"]                     // Использование ключей
+			);
+
+			const encoder = new TextEncoder();
+			const message = encoder.encode("Сообщение для подписи");
+
+			// Подписание 
+			const signature = await crypto.subtle.sign(
+				{ name: "ECDSA", hash: { name: "SHA-256" } }, // Алгоритм подписи
+				keyPair.privateKey,                          // Закрытый ключ
+				message                                      // Сообщение для подписи
+			);
+			console.log("Цифровая подпись:", new Uint8Array(signature));
+
+			// Проверка 
+			const isVerified = await crypto.subtle.verify(
+				{ name: "ECDSA", hash: { name: "SHA-256" } }, // Алгоритм проверки
+				keyPair.publicKey,                           // Открытый ключ
+				signature,                                   // Подпись
+				message                                      // Исходное сообщение
+			);
+			console.log("Подпись подтверждена:", isVerified);
+		}
+
+		signVerifyMessage();
+
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\Test_DALMSSQLX\\Test_DALMSSQLX.csproj": {}
+  },
+  "projects": {
+    "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\DASMLQLX\\DASMLQLX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\DASMLQLX\\DASMLQLX.csproj",
+        "projectName": "DASMLQLX",
+        "projectPath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\DASMLQLX\\DASMLQLX.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\DASMLQLX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\REPO\\REPO.csproj": {
+                "projectPath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\REPO\\REPO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\REPO\\REPO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\REPO\\REPO.csproj",
+        "projectName": "REPO",
+        "projectPath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\REPO\\REPO.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\REPO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\Test_DALMSSQLX\\Test_DALMSSQLX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\Test_DALMSSQLX\\Test_DALMSSQLX.csproj",
+        "projectName": "Test_DALMSSQLX",
+        "projectPath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\Test_DALMSSQLX\\Test_DALMSSQLX.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\Test_DALMSSQLX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\DASMLQLX\\DASMLQLX.csproj": {
+                "projectPath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\DASMLQLX\\DASMLQLX.csproj"
+              },
+              "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\REPO\\REPO.csproj": {
+                "projectPath": "D:\\УЧЁБА\\2 курс\\ПП\\самописный код ПП1\\DAL21\\REPO\\REPO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
